@@ -13,7 +13,6 @@ This is a classic Snake game implemented in Java using the Swing framework for t
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -60,6 +59,3 @@ The project is organized as follows:
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open a pull request or submit an issue.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
