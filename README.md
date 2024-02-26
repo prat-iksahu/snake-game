@@ -13,6 +13,7 @@ This is a classic Snake game implemented in Java using the Swing framework for t
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
 - [Contributing](#contributing)
+- [Snake Game (Source Code)](https://github.com/prat-iksahu/snake-game "Snake Game")
 
 ## Introduction
 
